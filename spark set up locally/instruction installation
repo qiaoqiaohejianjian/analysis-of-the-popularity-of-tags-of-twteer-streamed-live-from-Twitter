@@ -3,5 +3,6 @@ This folder is for spark set up locally.
 
 1. Go to link: https://kevinvecmanis.io/python/pyspark/install/2019/05/31/Installing-Apache-Spark.html
 2. Download needed resources
-2. Use CLI to go to home directory and then vim you .bash_profile and add infomation from bash_profile.txt
+2. Use CLI to go to home directory 
+3. then vim you .bash_profile and add infomation from bash_profile.txt(replace the path as yours)
 3. CLI: source .bash_profile
