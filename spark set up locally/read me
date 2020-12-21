@@ -1,5 +1,5 @@
 
 This folder is for spark set up locally.
-1. Download all files except bash_profile.txt
+1. Download resources.zip and then unzip
 2. Use CLI to go to home directory and then vim you .bash_profile and set infomation as bash_profile.txt
 3. CLI: source .bash_profile
